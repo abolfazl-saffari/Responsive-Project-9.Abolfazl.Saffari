@@ -56,7 +56,22 @@ body {
     font-size: 0.80vw;
     margin-left: 0.5rem;
 }
-
+.Seventh-Container{
+    background-color: grey;
+    margin: 2rem 0 2rem 0;
+}
+.Seventh-Container img{
+    width: 75%;
+    border-radius: 7rem;
+    float: left;
+}
+.Seventh-Container p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.1vw;
+}
+.Seventh-Container table{
+   padding: 2rem;
+}
 .Eights-container p{
     color: white;
     font-family: 'Open Sans', sans-serif;
