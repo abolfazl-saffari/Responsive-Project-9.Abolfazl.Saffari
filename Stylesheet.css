@@ -1,0 +1,68 @@
+body {
+    margin: 0 2rem 0 2rem;
+}
+
+.First-Container p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1vw;
+}
+
+.First-Container h1 {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 5vw;
+    margin-top: 0.5rem;
+}
+
+#line-1 {
+    border: 1px solid gray;
+    margin-bottom: 0.5rem;
+}
+
+#line-2 {
+    border: 1px solid grey;
+    margin-top: 0.5rem;
+}
+
+.Second-Container {
+    margin: 1rem 0 3rem 0;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1vw;
+}
+
+.Second-Container p {
+    margin: 0 0 0 0.65rem;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1vw;
+}
+
+.Third-Container p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1vw;
+}
+
+.Forth-Container img {
+    width: 100%;
+}
+.Fifth-Container p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1vw;
+}
+.Sixth-Container{
+    margin: 1.5rem 0 1.5rem 0;
+}
+.Sixth-Container p{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 0.80vw;
+    margin-left: 0.5rem;
+}
+
+.Eights-container p{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 0.75rem;
+    font-size: 1vw;
+}
+.Eights-container div{
+    padding: 0.25rem;
+}
